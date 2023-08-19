@@ -30,6 +30,6 @@ This challenge provided me with a real-life experience of working within a compa
 >Learn a better understanding of how to do proper data modeling. 
 >Learn and connect the tables via star schema with many-to-one relation.
 ![Atliq Hospitality sheet 1](https://github.com/kohposh14/Hospitality-Domain-Revenue-Analysis/blob/main/1.jpg)
-![Atliq Hospitality sheet 2](https://user-images.githubusercontent.com/113992933/222410658-88c78c63-b2e4-4e53-a0c9-7809d087a00b.png)
+![Atliq Hospitality sheet 2](https://github.com/kohposh14/Hospitality-Domain-Revenue-Analysis/blob/main/4.jpg)
 
 
