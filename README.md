@@ -32,7 +32,7 @@ This challenge provided me with a real-life experience of working within a compa
 >Learn how to implement the metrics with proper visualization.
 >Learn better Understanding at how to do proper data modelling. 
 >Learn and connected the tables via star schema with many-to-one relation.
-![Atliq Hospitality sheet 1](https://user-images.githubusercontent.com/113992933/222410631-49dc4ef7-c3a5-4cf3-b253-9046352c418b.png)
+![Atliq Hospitality sheet 1](https://github.com/kohposh14/Hospitality-Domain-Revenue-Analysis/blob/main/1.jpg)
 ![Atliq Hospitality sheet 2](https://user-images.githubusercontent.com/113992933/222410658-88c78c63-b2e4-4e53-a0c9-7809d087a00b.png)
 
 
